@@ -9,8 +9,9 @@ Join us on a journey where creativity meets gameplay. 🎮✨
 # Out products
 <table border="0">
   <tr>
-    <td align="center">
-      <a href="[https://link-to-your-product-1.com](https://loragames.github.io/NomNomPuzzle/)">
+    <td align="center" border="0">
+      <a href="[https://link-to-your-product-1.com](https://loragames.github.io/NomNomPuzzle/)" style="display: inline-block; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
+        >
         <img src="https://github.com/user-attachments/assets/33daeeca-d56c-4908-a020-7d245931bedf" width="150" height="150"><br/>
         <strong>NomNom Puzzle</strong>
       </a>
