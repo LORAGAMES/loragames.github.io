@@ -1,27 +1,19 @@
-# NomNomPuzzle
+# Welcome to LORA GAMES
 
-## 🌟 Welcome to NomNom Puzzle! 🌟
-Get ready for a brain-tickling, belly-rumbling adventure through the cutest ecosystems you’ve ever seen. In NomNom Puzzle, your job is simple: drag and drop creatures into the right spot to complete the perfect food chain. But don’t be fooled by the adorable art style, only clever thinkers will survive the circle of life!
+At LORA GAMES, we bring imagination to life. We're a passionate game studio dedicated to creating fantasy adventures, captivating casual games, and mind-bending puzzles that spark curiosity and keep players coming back for more.
 
+Whether you're exploring magical worlds, enjoying a quick casual escape, or challenging your brain with clever puzzles — our games are designed to entertain, inspire, and delight.
 
-## 🧩 How to Play:
-* Slide creatures like bugs, fish, cat, and more onto the board
-* Each creature must either eat another in the square it is looking at, or be eaten by the creature looking at it 🎯
-* Build a correct food chain from bottom to top
-* Complete all the squares to solve each level
-* New creatures and rules are introduced as you progress
+Join us on a journey where creativity meets gameplay. 🎮✨
 
-
-## 🐾 Features:
-* Cute & Colorful Creatures – From wiggly worms to sneaky foxes, meet a whole food chain of fun friends 🌱
-* Brainy Challenges – Test your logic, memory, and puzzle-solving skills
-* Charming Art Style – Designed to make you smile every move 🎨
-* Multiple Environments – Forests, deserts, oceans, and more—each with unique creatures.
-* Easy to Learn, Hard to Master – Perfect for kids and adults who love puzzles. 🎯
-* Offline Play – No Wi-Fi? No problem! Play anytime, anywhere.
-
-## 🎁 Coming Soon:
-* New themed worlds and limited-time events!
-* Rare “mutant” creatures with special abilities!
-* Community challenges and unlockables!
-* Achievements & Leaderboards – Show off your puzzle prowess to the world!
+# Out products
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="[https://link-to-your-product-1.com](https://loragames.github.io/NomNomPuzzle/)">
+        <img src="https://github.com/user-attachments/assets/33daeeca-d56c-4908-a020-7d245931bedf" width="150" height="150"><br/>
+        <strong>NomNom Puzzle</strong>
+      </a>
+    </td>
+  </tr>
+</table>
